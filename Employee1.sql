@@ -46,3 +46,5 @@ INSERT INTO Employee1 VALUES (1, 'Test Employee', 'Tester', 1, 35000.00, 1000.00
 
 -- Test Not Null violation (Null Name)
 INSERT INTO Employee1 VALUES (4, NULL, 'Tester', 1, 35000.00, 1000.00);
+
+-- ok--
